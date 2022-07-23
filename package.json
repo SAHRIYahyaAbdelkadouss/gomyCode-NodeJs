@@ -1,0 +1,22 @@
+{
+  "name": "gomycode-nodejs",
+  "version": "1.0.0",
+  "description": "This repo is made to contain all exirces of the course.",
+  "main": "baby-steps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAHRIYahyaAbdelkadouss/gomyCode-NodeJs.git"
+  },
+  "author": "SAHRI-YahyaAbdelkadouss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAHRIYahyaAbdelkadouss/gomyCode-NodeJs/issues"
+  },
+  "homepage": "https://github.com/SAHRIYahyaAbdelkadouss/gomyCode-NodeJs#readme",
+  "dependencies": {
+    "learnyounode": "^4.2.2"
+  }
+}
