@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/SAHRIYahyaAbdelkadouss/gomyCode-NodeJs#readme",
   "dependencies": {
-    "learnyounode": "^4.2.2"
+    "concat-stream": "^2.0.0",
+    "learnyounode": "^4.2.2",
+    "strftime": "^0.10.1"
   }
 }
